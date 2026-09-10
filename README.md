@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Riley (@rileyapp389)
 
-<!--
-**rileyapp389/rileyapp389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science undergrad based in Amsterdam. Mostly spending time debugging coursework, learning systems programming, and building small command-line utilities.
 
-Here are some ideas to get you started:
+#### What I work with:
+- **Languages:** Python, Java, C++
+- **Tools & OS:** Linux, Git, Bash, Make, Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current focus:
+- Operating systems and memory management concepts in C++
+- Backend services and automation scripts in Python
+- Object-oriented design patterns in Java
+
+Feel free to look around my pinned repositories or reach out for study collabs.
